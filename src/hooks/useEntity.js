@@ -1,0 +1,1 @@
+//#  WILSON borrar el comentario y pegar el codigo proporcionado del word de useEntity.js  
