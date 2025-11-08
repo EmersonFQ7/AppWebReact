@@ -1,13 +1,5 @@
 # PokéApp - Explorador de Pokémon
 
-<div align="center">
-![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5.2.0-7952B3?style=for-the-badge&logo=bootstrap)
-![PokéAPI](https://img.shields.io/badge/Pok%C3%A9API-REST-FF0000?style=for-the-badge)
-Una aplicación web moderna para explorar y descubrir información detallada sobre Pokémon.
-![Demo](https://img.shields.io/badge/%F0%9F%9A%80_Ver_Demo_en_Vivo-FF6B6B?style=for-the-badge)
-</div>
-
 📖 **Descripción**  
 PokéApp es una aplicación web desarrollada en React que permite a los usuarios explorar el mundo de los Pokémon. La aplicación consume la PokéAPI para mostrar información detallada sobre diferentes Pokémon, incluyendo sus estadísticas, tipos, habilidades y más.
 
@@ -47,16 +39,17 @@ https://tu-app-pokemon.netlify.app
 - npm o yarn  
 
 **Pasos para instalar:**  
-1. Clonar el repositorio  
-2. Instalar dependencias  
-3. Ejecutar en modo desarrollo  
-4. Abrir en el navegador: http://localhost:5173  
+1. Clonar el repositorio: `git clone https://github.com/tu-usuario/pokeapp.git`  
+2. Entrar en la carpeta del proyecto: `cd pokeapp`  
+3. Instalar dependencias: `npm install`  
+4. Ejecutar en modo desarrollo: `npm run dev`  
+5. Abrir en el navegador: http://localhost:5173  
 
 **Comandos disponibles:**  
-- Desarrollo: npm run dev  
-- Build para producción: npm run build  
-- Preview del build: npm run preview  
-- Linter: npm run lint  
+- Desarrollo: `npm run dev`  
+- Build para producción: `npm run build`  
+- Preview del build: `npm run preview`  
+- Linter: `npm run lint`  
 
 🎯 **Funcionalidades Implementadas**  
 ✅ **Página de Inicio (/)**  
@@ -101,8 +94,8 @@ https://tu-app-pokemon.netlify.app
 
 🔧 **Configuración para Deploy**  
 - Netlify: Conecta tu repositorio de GitHub  
-- Configura el build command: npm run build  
-- Configura el publish directory: dist  
+- Configura el build command: `npm run build`  
+- Configura el publish directory: `dist`  
 - Variables de entorno opcionales en `.env`:  
   - VITE_API_BASE_URL=https://pokeapi.co/api/v2  
   - VITE_APP_NAME=PokéApp  
@@ -110,9 +103,9 @@ https://tu-app-pokemon.netlify.app
 🤝 **Contribución**  
 Las contribuciones son bienvenidas. Para contribuir:  
 - Fork el proyecto  
-- Crea una rama para tu feature (git checkout -b feature/AmazingFeature)  
-- Commit tus cambios (git commit -m 'Add some AmazingFeature')  
-- Push a la rama (git push origin feature/AmazingFeature)  
+- Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)  
+- Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)  
+- Push a la rama (`git push origin feature/AmazingFeature`)  
 - Abre un Pull Request  
 
 📄 **Licencia**  
