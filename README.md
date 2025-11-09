@@ -111,8 +111,7 @@ Las contribuciones son bienvenidas. Para contribuir:
 📄 **Licencia**  
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.  
 
-👨‍💻 **Autor**  
-- Tu Nombre  
+👨‍💻 **Autor**    
 - GitHub: EmersonFQ7
 - GitHub: wilsonlopez-dotcom
 
