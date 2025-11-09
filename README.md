@@ -10,9 +10,9 @@ PokéApp es una aplicación web desarrollada en React que permite a los usuarios
 🎨 Diseño Responsive: Optimizado para móviles, tablets y desktop  
 ⚡ Performance: Carga rápida y estados de loading optimizados  
 
-🚀 **Demo en Vivo**  
+🚀 **Deploy**  
 Puedes ver la aplicación funcionando en:  
-https://tu-app-pokemon.netlify.app
+https://pokeapp-app-react.netlify.app/
 
 🛠️ **Tecnologías Utilizadas**  
 - React 18.2.0: Framework principal  
@@ -113,8 +113,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más deta
 
 👨‍💻 **Autor**  
 - Tu Nombre  
-- GitHub: @tu-usuario  
-- LinkedIn: Tu Nombre  
+- GitHub: EmersonFQ7
+- GitHub: wilsonlopez-dotcom
 
 🙏 **Agradecimientos**  
 - PokéAPI por proporcionar la data de Pokémon  
